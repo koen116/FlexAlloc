@@ -1,7 +1,7 @@
 # Flexible Inter- and Intra- Switching Plane Resource Allocation in Data Center Networks
 This repository contains the code for FlexAlloc, which is developed to support the adaptive dynamics and reconfiguration flexibility of the scheme proposed in this paper.
 The tasks in FlexAlloc include resource adaptation between the small and large flow planes, 
-topology construction and routing in the small flow plane, and scheduling in the large flow plane, which correspond to Algorithms 1-3, respectively..
+topology construction and routing in the small flow plane, and scheduling in the large flow plane, which correspond to Algorithms 1-3, respectively.
 
 # Instructions
 ## Code Structure
